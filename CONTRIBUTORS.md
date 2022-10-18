@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ADITYA KUMAR SINGH](https://github.com/AD1TYA03)
+- Place: Lucknow, INDIA
+- Bio: Web developer , Android developer
+- Github: [Aditya](https://github.com/ad1tya03)
