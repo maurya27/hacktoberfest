@@ -1,3 +1,8 @@
+#### Name: Umar Ali
+ - Place: Pakistan
+ - Bio: Coder
+ - GitHub: [UmarAli](https://github.com/umarali333)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
