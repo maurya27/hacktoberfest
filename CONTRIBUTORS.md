@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shreetej Kumar Das](https://github.com/shreetejkumard)
+- Place: India
+- Bio: Student
+- Github: [Shreetej Kumar Das](https://github.com/shreetejkumard)
